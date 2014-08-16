@@ -1,0 +1,33 @@
+Python 2 has 31 keywords:
+and
+as
+assert
+break
+class
+continue
+def
+del
+elif
+else
+except
+exec
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+not
+or
+pass
+print
+raise
+return
+try
+while
+with
+yield
+In Python 3, exec is no longer a keyword, but nonlocal is
