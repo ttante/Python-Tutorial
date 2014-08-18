@@ -45,7 +45,8 @@ from math import *
 blank_line()
 print 'cos * pi ='
 print cos(pi)
-
+print " "
+print "right justify: "
 def right_justify(x):
 	print(' '*60 + x)
 right_justify('doggy')
