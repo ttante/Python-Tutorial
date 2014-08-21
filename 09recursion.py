@@ -23,3 +23,18 @@ def factorial(x):
 		recurse_step = factorial(x-1)
 		result = n * recurse_step
 		return result
+
+# newtons square root finder
+# basically, say we have a number that we want the square root to,
+# if we don't actually know it we could guess it: for instance, I 
+# don't know the square root of 133, but I would guess 11 is pretty 
+# close
+
+
+
+while True: 
+	print x 
+	y = (x + a/x) / 2
+	if y == x;
+		break
+	x = y
