@@ -12,3 +12,28 @@ print a_in_taco
 b_in_taco = letter_b in taco 
 print b_in_taco
 # false
+
+
+
+# Here's a program that uses an 'if' statement to 
+# see if a character is in both words
+
+burrito = 'burrito'
+def in_both (bell, burrito):
+	for letter in bell:
+		if letter in burrito:
+			print letter_b
+# >>> b
+
+
+
+
+# String operators
+# You can use greater than > and less than < op erators to compare
+# strings as well! Capital letters come first, then alphabetical order
+
+
+if bell > taco:
+	print "true"
+# >>> true
+
