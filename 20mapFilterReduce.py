@@ -68,3 +68,14 @@ my_string = "dogs"
 string_list = list(my_string)
 print string_list
 # >>>> ['d', 'o', 'g', 's']
+
+##################################################
+
+# Splitting Strings
+# Use the split function to separate things split w/ a common characters
+
+#Example
+
+word = 'dog-dog-dog'
+split_item = '-'
+word.split(split_item)
