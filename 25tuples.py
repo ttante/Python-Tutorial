@@ -164,3 +164,35 @@ aa = (1, 2, 3)
 bb = (1, 2, 4)
 aa >= bb 
 # >>> False
+
+#####################################################
+ 
+# DSU - for sorting
+# There's a convention called DSU which stands for
+# DECORATE - a sequence with a list of tuples
+# SORT - the tuples list
+# UNDECORATE - take the sorted elements out of the sequence
+
+# Example
+# Sort a list of words from longest to shortest
+
+def length_sort(words):
+	wordHolder = []
+	for word in words:
+		wordHolder.append((len(word), word))
+
+	sortHolder.sort(reverse=True)
+
+	sortedWords = []
+	for length, word in wordHolder:
+		sortedWords.append(word)
+	return sortedWords
+
+
+# First we declare wordHolder and then run through the list of words
+# and append each word to the wordHolder.
+
+# Then we take the wordHolder, which is now a list of words, and
+# we sort each one. 
+# Finally, we append each item in the sorted list into a new one.
+
