@@ -1,4 +1,8 @@
-# Tuples are essentially an array or list, except they are IMMUTABLE!
+# Tuples are essentially an array or list, 
+# except they are IMMUTABLE! - and they are sets of 
+# 2 things: keys and values
+# They look like this {'a': 0, 'b': 1, 'c': 3}
+# In this tuple the KEYS are letters and the VALUES are numbers
 
 # You can create a tuple by making a string with a trailing comma 
 # Example:

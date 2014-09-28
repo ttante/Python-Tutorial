@@ -1,0 +1,8 @@
+Here is a text file i'm making, lets compart it 
+to another file and see what words are different
+using dictionary subtraction
+
+Donkey
+Rhino
+Monkey
+Squirrel

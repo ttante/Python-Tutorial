@@ -1,9 +1,8 @@
 # Lists can contain any type of data type, they can even 
 # contain lists
 
-# A list with no elemens is called an empty list,
-# and you can create one like this
-# my_list = []
+# An empty list is one with no elements, you can create one
+# like this: my_list = []
 
 sports = ['baseball', 'hockey', 'badminton']
 numbers = [12, 80, 56]
