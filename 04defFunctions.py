@@ -1,15 +1,18 @@
 # import the math module
 import math
+
 def print_lyrics():
 	print "got a wife and kids in baltimore jack"
 	print "i went out for a ride and i never went back"
 print_lyrics()
+
 
 # call the function 'print lyrics as many times as you want!'
 def repeat_lyrics():
 	print_lyrics()
 	print_lyrics()
 repeat_lyrics()
+
 line3 = 'Like a river that dont know where its flowing'
 
 def print_twice(x):

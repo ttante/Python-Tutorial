@@ -11,3 +11,11 @@ else:
 # print new line
 print ('/n')
 
+print 'how many adams does it take to beat up miley and beiber?'
+newInput = raw_input()
+for letters	in newInput
+	current_number = []
+	result_numbers = []
+	for letter in letters
+		if (letter != " " && ","):
+		 

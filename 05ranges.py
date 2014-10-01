@@ -1,10 +1,13 @@
 print 'i think im'
+
 for i in range(7):
 	print 'turning japanese i think im'
 print 'i really think so'
+
 five = 5
 if five > 0:
 	print 'five is greater than zero'
+
 
 if five < 0:
 	print 'nonsense happening now!'
